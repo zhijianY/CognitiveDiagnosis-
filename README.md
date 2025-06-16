@@ -1,7 +1,7 @@
 # CognitiveDiagnosis
 
-##Related Papers
+## Related Papers
 
-##Dataset
+## Dataset
 
-##Codes
+## Codes
